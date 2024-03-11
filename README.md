@@ -5,7 +5,6 @@ I'm a multi-skilled IT Professional with over 28 years of extensive technical ex
 * 🏢 I work at [Origin Storage Ltd](https://originstorage.com), where I have been for 18 years.
 * :heart: My passions include all things tech, my family and Ancient Egypt.
 * 🥇 In 2024 I'm striving to increase my certifications on new technologies.
-* 🆕 My new blog, [Technically IT Works](https://technicallyit.works), is now starting to get new posts on a weekly basis.
 
 <h2 align="center">👍 Follow me:</h2>
 
@@ -36,14 +35,6 @@ I'm a multi-skilled IT Professional with over 28 years of extensive technical ex
   </a>
 </p>
 
-<h2 align="center">📖 Read My Blog:</h2>
-
-<p align="center">
-<a href="https://technicallyit.works">
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
-</a>
-</p>
-
 <h2 align="center">🏆 My Stats:</h2>
 
 <p align="center">
@@ -51,18 +42,3 @@ I'm a multi-skilled IT Professional with over 28 years of extensive technical ex
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=origin-anthonyr&show_icons=true&theme=transparent" />
 </a>
 </p>
-
-<!--
-**origin-anthonyr/origin-anthonyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
