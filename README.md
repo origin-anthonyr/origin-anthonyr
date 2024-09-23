@@ -27,6 +27,19 @@ I'm a multi-skilled IT Professional with over 28 years of extensive technical ex
   </a>
 </p>
 
+<h2 align="center">#30NitesOfCode:</h2>
+  <p align="center">
+    <img src="https://www.codedex.io/api/petStatus?user=KingTut32" />
+  </p>
+  <p align="center">
+    @KingTut32 #30NitesOfCode
+  </p>
+  <p align="center">   
+    <a href="https://www.codedex.io/@KingTut32/30-nites-of-code">
+      Check out my progress!
+    </a>
+  </p>
+
 <h2 align="center">💻 My Tech Stack:</h2>
 
 <p align="center">
